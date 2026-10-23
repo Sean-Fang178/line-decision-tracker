@@ -1,8 +1,8 @@
 # Group 15 — Checkpoint 1 (CP1)
 
-**Project:** LINE Decision Tracker
-**Course:** CSIC30216 Fall 2026 · **Submitted:** 2026-10-25
-**Members:** 王翔麟 (Sean-Fang178) · _Member B_ · _Member C_ · _Member D_
+**Project:** LINE Decision Tracker<br>
+**Course:** CSIC30216 Fall 2026 · **Submitted:** 2026-10-25<br>
+**Members:** 王翔麟 (Sean-Fang178) · _Member B_ · _Member C_ · _Member D_<br>
 **Repository:** https://github.com/Sean-Fang178/line-decision-tracker
 
 ---
